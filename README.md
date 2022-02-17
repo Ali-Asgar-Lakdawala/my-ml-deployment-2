@@ -16,8 +16,8 @@ We have created front-end using Streamlit for webapp
 
 | Website | Link |
 | ------ | ------ |
-| Heroku | https://my-ml-deployments.herokuapp.com/ |
-| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/ml-deployment/main/app.py |
+| Heroku | https://my-ml-deployment-2.herokuapp.com/ |
+| Streamlit | https://share.streamlit.io/ali-asgar-lakdawala/my-ml-deployment-2/main/app.py|
 
 ## Conclusion
 
